@@ -2,7 +2,7 @@
 
 Mechatronics Engineering Student @ University of Waterloo  
 
-I build robots and everything autonomous  
+I build robots and stuff  
 
 
 - [LinkedIn](https://www.linkedin.com/in/brianzhengen/)
